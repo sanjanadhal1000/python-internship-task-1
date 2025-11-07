@@ -1,14 +1,26 @@
-# Week 4: Data Visualization with Matplotlib & Seaborn
+# Python Internship Project — 4 Weeks + Final Project
 
-**Concepts Covered:**
-- Matplotlib basic plots (line, bar, scatter)
-- Seaborn advanced plots (heatmaps, pairplots)
-- Data analysis and visualization
+This repository contains weekly Python tasks and the final integrated project (Personal Finance Manager).
 
-**Projects:**
-1. Age vs Salary Scatter Plot  
-2. Correlation Heatmap  
+## Contents
+- Week 1: Python Basics
+- Week 2: Data Structures & Functions
+- Week 3: NumPy & Pandas
+- Week 4: Data Visualization
+- Final Project: Personal Finance Manager (SQLite + CSV/JSON export)
 
-**Summary:**
-Learned to represent data visually to understand trends, relationships, and patterns effectively.
+**Author:** Sanjana Dhal
+# Python Internship Project — 4 Weeks + Final Project
+
+This repository contains weekly Python tasks and the final integrated project (Personal Finance Manager).
+
+## Contents
+- Week 1: Python Basics
+- Week 2: Data Structures & Functions
+- Week 3: NumPy & Pandas
+- Week 4: Data Visualization
+- Final Project: Personal Finance Manager (SQLite + CSV/JSON export)
+
+**Author:** Sanjana Dhal
+
 
