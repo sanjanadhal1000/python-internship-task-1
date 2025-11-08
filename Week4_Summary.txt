@@ -1,0 +1,46 @@
+Week 4 — Data Visualization with Matplotlib and Seaborn
+
+Concepts Learned
+
+In Week 4, I learned how to visually explore and communicate insights from data using **Matplotlib** and **Seaborn**, two essential Python libraries for data visualization.
+
+* Matplotlib:
+
+  * Learned how to create line plots, bar charts, scatter plots, and histograms using 
+  `plt.plot()`, `plt.bar()`, `plt.scatter()`, and `plt.hist()`.
+  * Added titles, axis labels, legends, and customized colors and styles for better readability.
+  * Understood how to visualize multiple plots using subplots.
+
+* Seaborn:
+
+  * Created advanced and more visually appealing plots such as heatmaps, pairplots, and boxplots.
+  * Learned to visualize relationships between features using `sns.scatterplot()`, `sns.barplot()`, and `sns.heatmap()`.
+  * Explored datasets using Seaborn’s built-in sample data (like `tips` and `iris`).
+
+---
+
+Hands-On Tasks
+
+* Generated multiple types of plots (bar, scatter, histogram) using Matplotlib.
+* Used Seaborn to create pairplots and heatmaps for deeper data relationships.
+* Customized plot themes and palettes to improve clarity and aesthetics.
+
+---
+
+Client Project
+
+Created a Data Visualization Dashboard that:
+
+* Reads a CSV dataset using Pandas.
+* Displays distributions of key variables using histograms.
+* Shows correlations using Seaborn heatmaps.
+* Plots relationships between numerical features using scatter plots and pairplots.
+
+---
+
+Outcome
+
+By the end of Week 4, I was able to effectively visualize data trends, relationships, and patterns 
+using Matplotlib and Seaborn. I also learned to interpret visual results to derive meaningful insights — 
+an essential step before machine learning or reporting.
+

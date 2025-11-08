@@ -1,0 +1,6 @@
+Week 1 Summary: Introduction to Python Programming
+
+In Week 1, I learned the basic building blocks of Python programming. I studied concepts such as variables, data types (integers, floats, strings, and booleans), operators, conditional statements (if-else), loops (for and while), and basic input/output operations.
+As part of the hands-on tasks, I wrote simple Python programs like a temperature converter and a calculator to apply these concepts.
+For the client project, I created a basic data processing script to calculate the average temperature from a list of values.
+Overall, this week helped me gain a clear understanding of Python syntax, logical flow using loops and conditions, and how to write simple, real-world programs in Python.

@@ -1,0 +1,45 @@
+Week 3 — NumPy and Pandas for Data Manipulation
+
+Concepts Learned
+
+In Week 3, I explored NumPy and Pandas, two powerful libraries used for data analysis and manipulation in Python.
+
+* NumPy:
+
+  * Learned about arrays, array creation, indexing, slicing, reshaping, and broadcasting.
+  * Performed mathematical operations on arrays and used built-in functions like `np.mean()`, `np.sum()`, `np.sqrt()`, etc.
+  * Understood how NumPy arrays are faster and more memory-efficient than Python lists.
+
+* Pandas:
+
+  * Learned about Series and DataFrames for handling tabular data.
+  * Practiced indexing, filtering, and grouping data.
+  * Used functions like `.head()`, `.info()`, `.describe()`, `.groupby()`, and `.fillna()` for exploration and cleaning.
+  * Understood how to read/write data from CSV files using `pd.read_csv()` and `to_csv()`.
+
+---
+
+Hands-On Tasks
+
+* Created and manipulated NumPy arrays and Pandas DataFrames.
+* Cleaned data by removing duplicates and handling missing values.
+* Aggregated and summarized datasets using grouping and mean calculations.
+
+---
+
+Client Project
+
+Built a data cleaning and aggregation script that:
+
+* Reads a dataset using Pandas.
+* Removes missing values and duplicates.
+* Calculates average and total values for selected columns.
+* Saves the cleaned dataset to a new CSV file.
+
+---
+
+Outcome
+
+I learned how to preprocess, clean, and analyze datasets efficiently using NumPy and Pandas. These skills are foundational for any data analysis or machine learning workflow.
+
+

@@ -1,0 +1,43 @@
+Week 2 — Data Structures and Functions
+
+Concepts Learned
+
+During Week 2, I learned about Python’s core data structures and how they help organize and process data efficiently.
+
+* Lists: storing multiple values, indexing, slicing, and list methods.
+* Tuples: immutable sequences for fixed data.
+* Dictionaries: key-value pairs for mapping and fast lookups.
+* Sets: storing unique elements and performing mathematical set operations.
+* Functions: defining reusable blocks of code using `def`.
+* Lambda Functions: small anonymous functions for short operations.
+* Recursion: a function calling itself to solve repetitive tasks.
+* List Comprehension: compact syntax for creating lists from loops and conditions.
+
+---
+
+Hands-On Tasks
+
+* Practiced creating and manipulating lists, tuples, dictionaries, and sets.
+* Wrote functions to perform tasks like finding the sum of squares and filtering data.
+* Explored lambda expressions and recursive functions.
+
+---
+
+Client Project
+
+Developed a data cleaning script that:
+
+* Removes duplicate values from a dataset.
+* Filters out invalid or missing data.
+* Prints the cleaned data and its summary.
+
+---
+
+Outcome
+
+Gained confidence in writing modular, efficient Python code using functions and data structures. 
+This week’s practice helped me understand how to clean and organize raw data for further analysis.
+
+---
+
+
